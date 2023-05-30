@@ -21,7 +21,7 @@ MySQL_Connection conn((Client *)&client);
 
 
 void setup() {
-   Serial.begin(9600);     // запускаем монитор порта
+   //Serial.begin(9600);     // запускаем монитор порта
    pinMode(A1, INPUT); // к входу A1 подключаем потенциометр
 
    Serial.begin(115200);
