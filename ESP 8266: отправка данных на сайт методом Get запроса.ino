@@ -1,5 +1,6 @@
 // https://habr.com/ru/articles/543532/
-
+//https://randomnerdtutorials.com/esp32-esp8266-mysql-database-php/
+//https://iotechprojects.com/sending-data-from-the-esp8266-to-mysql-directly/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h> 
